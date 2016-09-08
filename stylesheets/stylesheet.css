@@ -325,6 +325,15 @@ Full-Width Styles
   background: url('../images/icon_download.png') no-repeat 0% 90%;
 }
 
+#downloadss {
+  position: absolute;
+  width: 210px;
+  z-index: 10;
+  bottom: -40px;
+  right: 0;
+  height: 70px;
+}
+
 .btn {
   background: #0090FF;
   background-image: -webkit-linear-gradient(top, #0090FF, #2980b9);
