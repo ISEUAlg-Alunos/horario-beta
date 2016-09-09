@@ -386,7 +386,7 @@ Full-Width Styles
 }
 
 .dropdown {
-    position: relative;
+    /*position: relative;*/
     border-radius: 0px;
 }
 
