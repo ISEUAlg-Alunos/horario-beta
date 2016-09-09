@@ -56,7 +56,7 @@ body {
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
-  cursor: url(https://static-cdn.jtvnw.net/emoticons/v1/102242/1.0), auto;
+  cursor: url(/images/dorito.png), auto; /*doritochip EMOTE*/
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -285,6 +285,7 @@ Full-Width Styles
   box-shadow: 0 0 10px rgba(0,0,0,.5);
   border-bottom-left-radius: 2px;
   border-bottom-right-radius: 2px;
+  cursor: url(/images/doit.gif), auto; /*DOIT EMOTE*/
 }
 
 #header_wrap {
@@ -333,7 +334,7 @@ Full-Width Styles
   bottom: -40px;
   right: 0;
   height: 70px;
-  cursor: url(https://static-cdn.jtvnw.net/emoticons/v1/25/1.0), auto;
+  cursor: url(/images/Kappa.png), auto; /*KAPPA EMOTE*/
 }
 
 .btn {
@@ -362,7 +363,7 @@ Full-Width Styles
   background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
   background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
   text-decoration: none;
-  cursor: url(https://static-cdn.jtvnw.net/emoticons/v1/88/1.0), auto;
+  cursor: url(/images/PogChamp.png), auto; /*POGCHAMP EMOTE*/
 }
 
 .zip_download_link {
