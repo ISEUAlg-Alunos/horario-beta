@@ -329,7 +329,8 @@ Full-Width Styles
 
 #downloadss {
   position: absolute;
-  width: 210px;
+  /*width: 210px;*/
+  width: 330px;
   z-index: 10;
   bottom: -40px;
   right: 0;
